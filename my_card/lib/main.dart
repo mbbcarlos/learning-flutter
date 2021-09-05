@@ -27,10 +27,10 @@ class MyApp extends StatelessWidget {
               children: [
                 CircleAvatar(
                   radius: 80.0,
-                  backgroundImage: AssetImage('images/cut.jpeg'),
+                  backgroundImage: AssetImage('images/yuka.jpg'),
                 ),
                 Text(
-                  'Marta Carlos',
+                  'My Name Here',
                   style: TextStyle(
                       fontSize: 40.0,
                       fontFamily: 'Pacifico',
@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.white),
                 ),
                 Text(
-                  'MSC IN COMPUTER SCIENCE @ FCT NOVA ',
+                  'MSC IN COMPUTER SCIENCE @ UNI',
                   style: TextStyle(
                       fontSize: 15.0,
                       fontFamily: 'SourceSansPro',
@@ -61,7 +61,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.cyan[500],
                     ),
                     title: Text(
-                      'mbbcarlos@gmail.com',
+                      'my.cat@gmail.com',
                       style: TextStyle(
                           fontSize: 15.0,
                           fontFamily: 'SourceSansPro',
